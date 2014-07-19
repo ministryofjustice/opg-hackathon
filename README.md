@@ -2,6 +2,8 @@
 
 ## Office of the Public Guardian
 
+Public Contributions/Ideas/Suggestions: Please raise an Issue (button on the right)
+
 - - -
 #### Registration
 
