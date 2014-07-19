@@ -1,5 +1,7 @@
 ### Possible Location 
 
+Consideration: Size limit? 30 hackers?
+
 * Google Campus
 	* Pros: low cost, 24hrs
 	* Cons: basic, no food
