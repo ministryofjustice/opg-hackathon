@@ -9,12 +9,6 @@ Eventbrite?
 
 #### What is it?
 
-Qs
-
-* What type of hack is this? 
-* Project ideas? Display data from APIs / Capture data etc… 
-* What would MoJ like to achieve from it?
-
 
 #### Who is it for?
 
@@ -37,6 +31,7 @@ All work created should be hosted on Github under an Open Source license `https:
 
 #### Benefits to us & you
 
+All work at the event will be *Open Source* on *Github*. This helps the **MoJ** with solving practical problems with the ideas **You** & **Your** team develop. The benefit to **You* is you get public visiblity of your work & skills, improve your skils by learning from others & can play with new technology.
 
 - - -
 ### Overview
